@@ -1,7 +1,6 @@
 
 ### `CONTRIBUTING.md` (Contribution Guidelines)
 
-```markdown
 # Contributing to Azure CAF Naming Enforcer
 
 Thank you for your interest in contributing to the Azure CAF Naming Enforcer! We welcome all contributions, whether it's reporting issues, suggesting new features, or submitting pull requests.
