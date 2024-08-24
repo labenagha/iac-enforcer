@@ -1,0 +1,9 @@
+rules:
+  resource_group:
+    name_pattern: "^rg-[a-zA-Z0-9]+-[a-zA-Z0-9]+$"
+
+  virtual_machine:
+    name_pattern: "^vm-[a-zA-Z0-9]+-[a-zA-Z0-9]+-[a-zA-Z]{2}$"
+
+  dns:
+    name_pattern: "^[a-zA-Z0-9]+\\.example\\.com$"
