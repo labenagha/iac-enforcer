@@ -1,9 +1,7 @@
 name: Validate Terraform Naming
-
 on:
-  pull_request:
-    branches:
-      - main
+  push
+    - main
 
 jobs:
   validate-naming:
