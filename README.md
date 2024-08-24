@@ -1,6 +1,3 @@
-Here's the full `README.md` in the exact format you asked for, continuing from where you left off:
-
-```markdown
 # Azure CAF Naming Enforcer
 
 This project is designed to enforce Azure Cloud Adoption Framework (CAF) naming conventions for specific Azure resources, such as resource groups, virtual machines, and DNS zones. The goal is to ensure that all defined resources in Infrastructure as Code (IaC) files (e.g., Terraform) comply with user-defined naming rules, following Azure CAF standards.
@@ -115,5 +112,3 @@ Contributions are welcome! Please feel free to submit issues or pull requests wi
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-You can now copy and paste this entire content as one continuous `README.md` file.
