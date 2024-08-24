@@ -1,2 +1,2 @@
-hcl2
+python-hcl2
 pyyaml
